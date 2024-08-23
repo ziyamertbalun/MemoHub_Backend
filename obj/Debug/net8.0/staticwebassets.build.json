@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V7Px86e6yEAMpWGpdVsiIKNg+lIbe2pVD2G3RGP4yDE=",
+  "Source": "MemoHubBackend",
+  "BasePath": "_content/MemoHubBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

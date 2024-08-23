@@ -1,0 +1,6 @@
+@MemoHubBackend_HostAddress = http://localhost:5266
+
+GET {{MemoHubBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
